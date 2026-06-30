@@ -1,0 +1,8 @@
+{
+  "name": "Cozy Sheets",
+  "description": "A digital marketplace for Progressive Web Apps, Business Systems, Gas & Water station logs, and spreadsheet templates with high-density designs and offline PWA capabilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
